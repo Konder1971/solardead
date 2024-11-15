@@ -145,6 +145,7 @@ sections:
         iconPosition: right
         style: primary
         type: Button
+        showIcon: true
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:

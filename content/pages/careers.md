@@ -99,7 +99,7 @@ sections:
               - pr-8
             textAlign: left
             borderRadius: x-large
-            flexDirection: col
+            flexDirection: row
             justifyContent: center
         type: FeaturedItem
       - title: Open Source Engineer

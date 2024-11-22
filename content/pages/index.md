@@ -7,6 +7,9 @@ sections:
       text: Unblock your team boost your time to production
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: Subtitle goes here
     text: >+
       <div style="text-align: center">A Netlify Create website is a git repo

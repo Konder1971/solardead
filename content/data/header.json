@@ -7,8 +7,9 @@
                 "margin": [
                     "mr-3"
                 ],
-                "borderRadius": "small",
-                "borderStyle": "none"
+                "borderRadius": "none",
+                "borderStyle": "none",
+                "borderWidth": 2
             }
         },
         "type": "ImageBlock"

@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          textAlign: center
+          textAlign: left
     subtitle: Subtitle goes here
     text: >
       <div style="text-align: left">A Netlify Create website is a git repo that
@@ -51,7 +51,7 @@ sections:
       type: Badge
       styles:
         self:
-          textAlign: center
+          textAlign: left
     elementId: ''
     colors: bg-dark-fg-light
     styles:
@@ -63,9 +63,9 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-        justifyContent: center
+        justifyContent: flex-start
       subtitle:
-        textAlign: center
+        textAlign: left
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image

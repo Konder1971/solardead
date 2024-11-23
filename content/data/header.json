@@ -7,7 +7,7 @@
                 "margin": [
                     "mr-3"
                 ],
-                "borderRadius": "xx-small",
+                "borderRadius": "small",
                 "borderStyle": "none"
             }
         },

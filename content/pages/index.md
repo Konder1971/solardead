@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Unblock your team boost your time to production
-      color: text-dark
+      color: text-light
       type: TitleBlock
       styles:
         self:
@@ -47,13 +47,13 @@ sections:
         type: Link
     badge:
       label: This is a badge
-      color: text-primary
+      color: text-light
       type: Badge
       styles:
         self:
           textAlign: center
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
@@ -66,6 +66,14 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: cover
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/a3.png
   - type: FeaturedItemsSection
     title:
       text: Key Benefits

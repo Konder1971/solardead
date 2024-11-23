@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: page 1
+title: page-1
 sections:
   - type: GenericSection
     title:

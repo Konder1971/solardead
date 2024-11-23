@@ -39,7 +39,7 @@ export function seoGenerateMetaTags(page, site) {
 export function seoGenerateTitle(page, site) {
     let title = page.seo?.metaTitle ? page.seo?.metaTitle : page.title;
     if (site.titleSuffix && page.seo?.addTitleSuffix !== false) {
-        title = `${title} - ${site.titleSuffix}`;
+        title = `${title};
     }
     return title;
 }

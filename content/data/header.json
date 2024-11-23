@@ -73,7 +73,7 @@
         {
             "type": "Link",
             "label": "Page 1",
-            "altText": "Page 1 page",
+            "altText": "Page 1",
             "url": "/page-1",
             "showIcon": false,
             "icon": "arrowRight",

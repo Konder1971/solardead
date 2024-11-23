@@ -6,7 +6,9 @@
             "self": {
                 "margin": [
                     "mr-3"
-                ]
+                ],
+                "borderRadius": "small",
+                "borderStyle": "none"
             }
         },
         "type": "ImageBlock"

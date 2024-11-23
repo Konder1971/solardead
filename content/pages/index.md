@@ -65,7 +65,7 @@ sections:
           - pr-16
         justifyContent: center
       subtitle:
-        textAlign: center
+        textAlign: left
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image

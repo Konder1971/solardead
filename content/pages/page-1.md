@@ -40,7 +40,7 @@ sections:
         label: See Tutorials
         altText: ''
         url: /
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary

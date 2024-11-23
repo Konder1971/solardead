@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: page 1
+title: page-1
 sections:
   - type: GenericSection
     title:
@@ -66,7 +66,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: page 1
+slug: page-1
 isDraft: false
 seo:
   type: Seo

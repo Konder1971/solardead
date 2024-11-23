@@ -9,7 +9,7 @@
                 ],
                 "borderRadius": "none",
                 "borderStyle": "none",
-                "borderWidth": 0
+                "borderWidth": 2
             }
         },
         "type": "ImageBlock"

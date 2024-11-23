@@ -145,6 +145,7 @@ sections:
         iconPosition: right
         style: primary
         type: Button
+        showIcon: false
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
@@ -159,7 +160,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
 seo:
-  metaTitle: Careers - Demo site
+  metaTitle: Careers
   metaDescription: This is the careers page built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo

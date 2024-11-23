@@ -66,7 +66,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: page 1
+slug: page-1
 isDraft: false
 seo:
   type: Seo

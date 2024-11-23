@@ -47,7 +47,7 @@ sections:
         type: Link
     badge:
       label: This is a badge
-      color: text-primary
+      color: text-light
       type: Badge
       styles:
         self:
